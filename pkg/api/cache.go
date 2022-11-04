@@ -12,7 +12,7 @@ import (
 	"github.com/stefanprodan/podinfo/pkg/version"
 )
 
-// Cache godoc Paulo
+// Cache godoc
 // @Summary Save payload in cache
 // @Description writes the posted content in cache
 // @Tags HTTP API
